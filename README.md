@@ -1,4 +1,5 @@
 # classification_BankAnalysis
+ The  goal is to predict if the client will subscribe a bank term deposit.
 
 # REFRECENCE 
  [Moro et al., 2011] S. Moro, R. Laureano and P. Cortez. Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology. 
